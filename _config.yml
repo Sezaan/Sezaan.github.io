@@ -1,22 +1,24 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Sezan Ahmed
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: You are being watched
 
 # Your name to show in the footer
-author: Some Person
+author: Sezan
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Virtual Presence:
+    - Codeforces: "https://codeforces.com/profile/GeraltofRivia"
+    - AtCoder: "https://atcoder.jp/users/Bojack"
+    - Facebook: "https://www.facebook.com/aimless.aimer"
+    - LinkedIn: "https://www.linkedin.com/in/sezaan/"
+  #Author's home: "http://deanattali.com"
 
 # --- Local development options ---
 
@@ -33,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/404-southpark.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -49,13 +51,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "sezan175@gmail.com"
+  facebook: aimless.aimer
+  github: Sezan
+  #twitter: daattali
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: sezaan
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +73,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
 
