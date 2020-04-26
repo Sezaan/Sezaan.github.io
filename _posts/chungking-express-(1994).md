@@ -4,7 +4,7 @@ title: Chungking Express (1994)
 subtitle: Do you... like pineapple?
 tags: [film, wongkarwai, hongkong]
 ---
-** [Chungking Express (1994)](https://letterboxd.com/film/chungking-express/) **
+[**Chungking Express (1994)**](https://letterboxd.com/film/chungking-express/)
 
 **Director: [Wong Kar-Wai](https://letterboxd.com/director/wong-kar-wai/)**
 
